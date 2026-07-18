@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "blank_spot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama_kawasan": "Klaster Blank Spot 1", "jumlah_pkl": 28, "status_akses": "Blank Spot" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 112.8321, -7.3075 ], [ 112.8521, -7.3075 ], [ 112.8521, -7.2875 ], [ 112.8321, -7.2875 ], [ 112.8321, -7.3075 ] ] ] } },
+{ "type": "Feature", "properties": { "nama_kawasan": "Klaster Blank Spot 2", "jumlah_pkl": 19, "status_akses": "Blank Spot" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 112.6521, -7.3375 ], [ 112.6721, -7.3375 ], [ 112.6721, -7.3175 ], [ 112.6521, -7.3175 ], [ 112.6521, -7.3375 ] ] ] } },
+{ "type": "Feature", "properties": { "nama_kawasan": "Klaster Blank Spot 3", "jumlah_pkl": 33, "status_akses": "Blank Spot" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 112.7321, -7.1675 ], [ 112.7521, -7.1675 ], [ 112.7521, -7.1475 ], [ 112.7321, -7.1475 ], [ 112.7321, -7.1675 ] ] ] } }
+]
+}
