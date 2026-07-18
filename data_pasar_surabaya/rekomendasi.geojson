@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "rekomendasi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama": "CONTOH - Rekomendasi Pasar Satelit 1 (GANTI)", "alasan": "GANTI dengan alasan pemilihan lokasi berdasarkan analisis Anda" }, "geometry": { "type": "Point", "coordinates": [ 112.7715, -7.2915 ] } }
+]
+}
