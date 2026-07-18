@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "blank_spot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama_kawasan": "CONTOH - Klaster Blank Spot 1 (GANTI)", "jumlah_pkl": 0, "status_akses": "Blank Spot" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 112.77, -7.29 ], [ 112.773, -7.29 ], [ 112.773, -7.293 ], [ 112.77, -7.293 ], [ 112.77, -7.29 ] ] ] } }
+]
+}
